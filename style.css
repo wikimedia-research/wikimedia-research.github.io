@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+html, body, div {
+	margin: 0;
+	padding: 0;
+}
+body, p, div {
+	font-family: 'Source Serif Pro', serif;
+}
+.content-wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 1em;
+}
+.content {
+	max-width: 650px;
+	margin: 0 auto;
+}
+#header {
+	text-align: center;
+}
+#footer {
+    padding-top: 20px;
+    font-size: 12px;
+    width: 800px;
+    clear: both;
+    text-align: center;
+    margin: 0 auto;
+  }
