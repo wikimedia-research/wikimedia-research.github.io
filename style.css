@@ -5,6 +5,8 @@ html, body, div {
 }
 body, p, div {
 	font-family: 'Source Serif Pro', serif;
+	font-size: 14pt;
+	line-height: 22pt;
 }
 .content-wrapper {
 	max-width: 1200px;
